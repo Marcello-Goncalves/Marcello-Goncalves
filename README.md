@@ -1,12 +1,38 @@
 # Marcello Gonçalves
 
-I'm a Computer Programming and Software Development Student Based in the North of **Portugal**. 🇵🇹
+I'm a *Computer Programming* and *Software Development* Student Based in the North of **Portugal**. 🇵🇹
 
 <br>
+
+```python
+def interests():
+    
+    currently_focused_on_learning = [
+        "C#",
+        "C++",
+        "java",
+        "Python"
+    ]
+
+    as_well_as_exploring_the_world_of = [
+        "🐧", "Linux",
+        "🐋", "Containers",
+        "🖥️", "Virtualization",
+        "and other interesting technologies."
+    ]
+    
+```
+
+<!--
+### Interests:
 
 Currently foused on learning ***C#**, **Java**, **Python*** and ***C++***.
 
  As well as exploring the world of 🐧 **Linux** , 🖥️ **Virtualization** , 🐋 **Containers** and other interesting technologies.
+
+-->
+
+<br>
 
 #
 
