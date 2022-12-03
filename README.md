@@ -1,4 +1,4 @@
-<img align="right" width="70" height="70" src="https://github.com/Marcello-Goncalves/Marcello-Goncalves/blob/main/GitHub_Profile/programmer.png">
+<img align="right" width="60" height="60" src="https://github.com/Marcello-Goncalves/Marcello-Goncalves/blob/main/GitHub_Profile/programmer.png">
 
 # Marcello Gonçalves
 
