@@ -25,16 +25,11 @@ def interests():
     
 ```
 
-<!--
-### Interests:
-
-Currently foused on learning ***C#**, **Java**, **Python*** and ***C++***.
-
- As well as exploring the world of 🐧 **Linux** , 🖥️ **Virtualization** , 🐋 **Containers** and other interesting technologies.
-
--->
-
 <br>
+
+[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcello-Goncalves&layout=compact&theme=dark&border_color=30363d&bg_color=00000000&custom_title=Languages%20Used%20on%20Repositories#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcello-Goncalves&layout=compact&theme=light&border_color=000000&bg_color=00000000&custom_title=Languages%20Used%20on%20Repositories#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 #
 
