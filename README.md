@@ -1,4 +1,3 @@
-<img align="right" width="60" height="60" src="https://github.com/Marcello-Goncalves/Marcello-Goncalves/blob/main/GitHub_Profile/programmer.png">
 
 # Marcello Gonçalves
 
@@ -29,7 +28,7 @@ def interests():
 
 [![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcello-Goncalves&layout=compact&theme=dark&border_color=30363d&bg_color=00000000&custom_title=Languages%20Used%20on%20Repositories#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcello-Goncalves&layout=compact&theme=light&border_color=000000&bg_color=00000000&custom_title=Languages%20Used%20on%20Repositories#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcello-Goncalves&layout=compact&theme=light&border_color=d0d7de&bg_color=00000000&custom_title=Languages%20Used%20on%20Repositories#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 #
 
